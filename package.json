@@ -5,17 +5,16 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "prisma generate && next build",
+    "build": "next build",
     "start": "next start",
-    "lint": "next lint",
-    "postinstall": "prisma generate"
+    "lint": "next lint"
   },
   "dependencies": {
     "mysql2": "^3.16.0",
-    "nanoid": "^5.1.6",
-    "next": "14.2.18",
-    "react": "^18.3.1",
-    "react-dom": "^18.3.1"
+    "nanoid": "^5.1.5",
+    "next": "15.1.3",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
   },
   "engines": {
     "node": ">=18.0.0"
