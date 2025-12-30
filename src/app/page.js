@@ -1,3 +1,5 @@
+"use client";
+
 /**
  * Home Page - Create Paste UI
  *

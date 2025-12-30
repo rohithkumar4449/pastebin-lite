@@ -1,3 +1,5 @@
+"use client";
+
 /**
  * Not Found Page for /p/:id
  *

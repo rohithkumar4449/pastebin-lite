@@ -1,3 +1,5 @@
+"use client";
+
 /**
  * View Paste Page (HTML)
  *
