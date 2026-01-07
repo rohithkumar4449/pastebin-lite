@@ -123,16 +123,7 @@ CREATE TABLE pastes (
 
 **Hosted on:** Vercel + Aiven MySQL
 
-### Environment Variables (Vercel)
 
-```
-DB_HOST=mysql-32d46081-n8n-2574.h.aivencloud.com
-DB_PORT=27998
-DB_USER=avnadmin
-DB_PASSWORD=<your_password>
-DB_NAME=defaultdb
-TEST_MODE=1
-```
 
 ### Important: Aiven IP Whitelisting
 
